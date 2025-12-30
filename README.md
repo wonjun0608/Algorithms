@@ -1,0 +1,4 @@
+# Data Structures and Algorithms
+
+This repository serves as an index of my algorithm-focused projects implemented in Java.  
+The projects emphasize problem-solving patterns, efficiency, and design trade-offs rather than individual problem solutions.
